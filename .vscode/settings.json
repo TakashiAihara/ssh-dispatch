@@ -1,0 +1,19 @@
+{
+	"[python]": {
+		"editor.defaultFormatter": "ms-python.black-formatter"
+	},
+	"cSpell.words": [
+		"dotenv",
+		"hostnames",
+		"levelname",
+		"pkey"
+	],
+	"python.analysis.extraPaths": [
+		"./ssh_dispatch"
+	],
+	"python.formatting.provider": "none",
+	"python.linting.enabled": true,
+	"python.linting.flake8Enabled": false,
+	"python.linting.mypyEnabled": true,
+	"python.linting.pylintEnabled": false
+}
